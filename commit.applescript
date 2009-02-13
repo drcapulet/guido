@@ -24,6 +24,8 @@ on choose menu item theObject
 		tell application "Finder"
 			set projectfolder to choose folder
 		end tell
-		
+		set projectfolder to (POSIX path of projectfolder)
+		set projectsfile to "~/Library/Preferences/com.alex2.guido.projects.txt"
+		do shell script "echo " & projectfolder & " >>" & projectsfile & ";"
 	end if
 end choose menu item

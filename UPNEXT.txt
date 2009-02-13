@@ -1,0 +1,5 @@
+[TODO]
+	- DRY the project list reload so that it adds after new project created
+	- Write all the commit code
+	- App icon?
+	- Clean out all unused code

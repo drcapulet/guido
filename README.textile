@@ -2,12 +2,12 @@ h1. guido
 
 guido is a small mac os x app (leopard only) for quick git commits with push capability. it also has a menu bar component for easy window access.
 
-currently in very early status. not even ready for beta or alpha.
+it is currently ready for early testing, though I believe everything on the window itself is functional
 
 it is a cocoa/applescript hybrid app
 
 h3. still working on
 
-* git commit functionality
-* multiple project functionality
-* everything else but the menu bar stuff and the window design
+* Maybe add in built-in tagging
+* Change the color of the Push text, and maybe the progress indicator
+* Everything in the menus

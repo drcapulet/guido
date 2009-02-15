@@ -18,9 +18,11 @@ on clicked theObject
 		-- if push is enabled
 		display dialog pushquestion
 		if pushquestion is true then
-			set command to do shell script "cd " & currentproj & "; git add . ; git commit -m \"" & commitmessage & "\"; git push;"
+			set command to do shell script "cd " & currentproj & "; git add .; git commit -m \"" & commitmessage & "\"; git push;"
+			--set command2 to do shell script "cd " & currentproj & "git commit -m \"" & commitmessage & "\"; git push;"
 			--set command to "cd " & currentproj & "; git add . ; git commit -m \"" & commitmessage & "\"; git push;"
 			display dialog command
+			--display dialog command2
 		else
 			--set command to "cd " & currentproj & "; git add . ; git commit -m \" " & commitmessage & " \" "
 			--display dialog command

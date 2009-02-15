@@ -100,6 +100,9 @@
 			CC319C4E0F47ECF100E5A387 /* PBXTextBookmark */ = CC319C4E0F47ECF100E5A387 /* PBXTextBookmark */;
 			CC319C500F47ED1C00E5A387 /* PBXTextBookmark */ = CC319C500F47ED1C00E5A387 /* PBXTextBookmark */;
 			CC319C510F47ED5500E5A387 /* PBXTextBookmark */ = CC319C510F47ED5500E5A387 /* PBXTextBookmark */;
+			CC319C540F47EE4500E5A387 /* PBXTextBookmark */ = CC319C540F47EE4500E5A387 /* PBXTextBookmark */;
+			CC319C570F47EE8700E5A387 /* PBXTextBookmark */ = CC319C570F47EE8700E5A387 /* PBXTextBookmark */;
+			CC319C5A0F47EEF700E5A387 /* PBXTextBookmark */ = CC319C5A0F47EEF700E5A387 /* PBXTextBookmark */;
 			CC5A36690F368F3B00390C9D = CC5A36690F368F3B00390C9D /* PBXTextBookmark */;
 			CC5A366A0F368F3B00390C9D = CC5A366A0F368F3B00390C9D /* PBXTextBookmark */;
 			CC5A37390F36BCE000390C9D = CC5A37390F36BCE000390C9D /* PBXTextBookmark */;
@@ -138,7 +141,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 35";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 952;
 		vrLoc = 71;
@@ -158,7 +161,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 30";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 845;
 		vrLoc = 0;
@@ -178,7 +181,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 32";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 992;
 		vrLoc = 31;
@@ -235,7 +238,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 32";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1001;
 		vrLoc = 22;
@@ -285,7 +288,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 33";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1082;
 		vrLoc = 22;
@@ -295,7 +298,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 34";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1096;
 		vrLoc = 22;
@@ -305,7 +308,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 34";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1096;
 		vrLoc = 22;
@@ -315,7 +318,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 36";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1087;
 		vrLoc = 22;
@@ -325,7 +328,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 36";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1090;
 		vrLoc = 22;
@@ -335,7 +338,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 36";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1238;
 		vrLoc = 32;
@@ -345,7 +348,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 36";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1308;
 		vrLoc = 32;
@@ -355,7 +358,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 40";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1135;
 		vrLoc = 71;
@@ -365,7 +368,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 42";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1192;
 		vrLoc = 71;
@@ -375,7 +378,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 42";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1192;
 		vrLoc = 71;
@@ -385,7 +388,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 43";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1108;
 		vrLoc = 71;
@@ -395,7 +398,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 43";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1110;
 		vrLoc = 71;
@@ -405,7 +408,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 44";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1285;
 		vrLoc = 131;
@@ -415,7 +418,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 44";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1288;
 		vrLoc = 131;
@@ -425,7 +428,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 44";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1286;
 		vrLoc = 131;
@@ -435,7 +438,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 44";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1289;
 		vrLoc = 131;
@@ -445,7 +448,7 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 44";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1302;
 		vrLoc = 131;
@@ -455,9 +458,39 @@
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 44";
 		rLen = 0;
-		rLoc = 1757;
+		rLoc = 1897;
 		rType = 0;
 		vrLen = 1349;
+		vrLoc = 131;
+	};
+	CC319C540F47EE4500E5A387 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
+		name = "commit.applescript: 46";
+		rLen = 0;
+		rLoc = 1897;
+		rType = 0;
+		vrLen = 1261;
+		vrLoc = 131;
+	};
+	CC319C570F47EE8700E5A387 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
+		name = "commit.applescript: 46";
+		rLen = 0;
+		rLoc = 1897;
+		rType = 0;
+		vrLen = 1261;
+		vrLoc = 131;
+	};
+	CC319C5A0F47EEF700E5A387 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
+		name = "commit.applescript: 46";
+		rLen = 0;
+		rLoc = 1897;
+		rType = 0;
+		vrLen = 1317;
 		vrLoc = 131;
 	};
 	CC5A36510F368B7700390C9D /* guido */ = {
@@ -533,9 +566,9 @@
 	};
 	CC5A36BC0F36B8B000390C9D /* commit.applescript */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 675}}";
-			sepNavSelRange = "{1757, 0}";
-			sepNavVisRange = "{131, 1349}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 704}}";
+			sepNavSelRange = "{1897, 0}";
+			sepNavVisRange = "{131, 1317}";
 		};
 	};
 	CC5A37390F36BCE000390C9D /* PBXTextBookmark */ = {

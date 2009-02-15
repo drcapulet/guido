@@ -329,14 +329,14 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>CC319C6B0F47F36700E5A387</string>
+										<string>CCDE8C9B0F47F8760059F288</string>
 										<key>history</key>
 										<array>
 											<string>CC5A37390F36BCE000390C9D</string>
 											<string>CC131F6C0F42AE56004C5F8C</string>
 											<string>CC131F6E0F42AE56004C5F8C</string>
 											<string>CC319C5D0F47EF9F00E5A387</string>
-											<string>CC319C5E0F47EF9F00E5A387</string>
+											<string>CC319C6E0F47F6FD00E5A387</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -345,10 +345,6 @@
 											<string>CC5A373C0F36BCE000390C9D</string>
 											<string>CC131F720F42AE56004C5F8C</string>
 											<string>CC131F730F42AE56004C5F8C</string>
-											<string>CC319C250F47E97700E5A387</string>
-											<string>CC319C260F47E97700E5A387</string>
-											<string>CC319C5F0F47EF9F00E5A387</string>
-											<string>CC319C600F47EF9F00E5A387</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -406,9 +402,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>CC319C200F47E81600E5A387</string>
+				<string>CCDE8C9C0F47F8760059F288</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>CC319C210F47E81600E5A387</string>
+				<string>CCDE8C9D0F47F8760059F288</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -542,9 +538,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>CC5A36650F368F2F00390C9D</string>
 		<string>/Users/alexcoomans/Documents/Projects/guido/guido/guido.xcodeproj</string>
 	</array>
 	<key>WindowString</key>

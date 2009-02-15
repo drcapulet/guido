@@ -1266,7 +1266,7 @@
 													<string>WebURLsWithTitlesPboardType</string>
 												</object>
 											</object>
-											<string key="NSFrameSize">{249, 52}</string>
+											<string key="NSFrameSize">{249, 12}</string>
 											<reference key="NSSuperview" ref="604763433"/>
 											<object class="NSTextContainer" key="NSTextContainer" id="49118700">
 												<object class="NSLayoutManager" key="NSLayoutManager">
@@ -1461,12 +1461,13 @@
 											</object>
 											<int key="NSTVFlags">6</int>
 											<string key="NSMaxSize">{498, 1e+07}</string>
-											<string key="NSMinize">{193, 52}</string>
+											<string key="NSMinize">{193, 0}</string>
 											<nil key="NSDelegate"/>
 										</object>
 									</object>
 									<string key="NSFrameSize">{249, 83}</string>
 									<reference key="NSSuperview" ref="831693501"/>
+									<reference key="NSNextKeyView" ref="52510094"/>
 									<reference key="NSDocView" ref="52510094"/>
 									<reference key="NSBGColor" ref="757176200"/>
 									<object class="NSCursor" key="NSCursor">
@@ -1499,6 +1500,7 @@
 							</object>
 							<string key="NSFrame">{{11, 35}, {249, 83}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
+							<reference key="NSNextKeyView" ref="604763433"/>
 							<int key="NSsFlags">528</int>
 							<reference key="NSVScroller" ref="483864333"/>
 							<reference key="NSHScroller" ref="227884696"/>
@@ -3372,9 +3374,11 @@
 					<string>457.IBPluginDependency</string>
 					<string>458.IBPluginDependency</string>
 					<string>459.IBPluginDependency</string>
+					<string>460.IBAttributePlaceholdersKey</string>
 					<string>460.IBPluginDependency</string>
 					<string>461.IBPluginDependency</string>
 					<string>462.IBPluginDependency</string>
+					<string>463.IBAttributePlaceholdersKey</string>
 					<string>463.IBPluginDependency</string>
 					<string>464.IBAttributePlaceholdersKey</string>
 					<string>464.IBPluginDependency</string>
@@ -3661,9 +3665,33 @@
 					<string>com.brandonwalkin.BWToolkit</string>
 					<string>com.brandonwalkin.BWToolkit</string>
 					<string>com.brandonwalkin.BWToolkit</string>
+					<object class="NSMutableDictionary">
+						<string key="NS.key.0">IBAppleScriptAttributeName</string>
+						<object class="IBAppleScriptInfoAttribute" key="NS.object.0">
+							<string key="name">IBAppleScriptAttributeName</string>
+							<reference key="object" ref="831693501"/>
+							<int key="appleScriptObjectID">0</int>
+							<int key="appleScriptScriptScope">0</int>
+							<nil key="appleScriptEventHandlerNames"/>
+							<string key="appleScriptScriptName">commit.applescript</string>
+							<string key="appleScriptObjectName">commitmessage</string>
+						</object>
+					</object>
 					<string>com.brandonwalkin.BWToolkit</string>
 					<string>com.brandonwalkin.BWToolkit</string>
 					<string>com.brandonwalkin.BWToolkit</string>
+					<object class="NSMutableDictionary">
+						<string key="NS.key.0">IBAppleScriptAttributeName</string>
+						<object class="IBAppleScriptInfoAttribute" key="NS.object.0">
+							<string key="name">IBAppleScriptAttributeName</string>
+							<reference key="object" ref="52510094"/>
+							<int key="appleScriptObjectID">0</int>
+							<int key="appleScriptScriptScope">0</int>
+							<nil key="appleScriptEventHandlerNames"/>
+							<string key="appleScriptScriptName">commit.applescript</string>
+							<string key="appleScriptObjectName">commitmessage</string>
+						</object>
+					</object>
 					<string>com.brandonwalkin.BWToolkit</string>
 					<object class="NSMutableDictionary">
 						<string key="NS.key.0">IBAppleScriptAttributeName</string>
@@ -3811,7 +3839,7 @@
 			</object>
 		</object>
 		<int key="IBDocument.localizationMode">0</int>
-		<string key="IBDocument.LastKnownRelativeProjectPath">../gudio.xcodeproj</string>
+		<string key="IBDocument.LastKnownRelativeProjectPath">../guido.xcodeproj</string>
 		<int key="IBDocument.defaultPropertyAccessControl">3</int>
 	</data>
 </archive>

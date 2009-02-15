@@ -13,8 +13,20 @@ on clicked theObject
 	if the name of theObject is "commitbtn" then
 		tell progress indicator "commit-spinner" of window "commitpanel" to start
 		set pushquestion to contents of button "commit-pushcb" of window "commitpanel"
-		set x to do shell script "cd /Users; ls"
-		display dialog x
+		set currentproj to the title of the current menu item of popup button "projectdrop" of window "commitpanel"
+		set commitmessage to the contents of text view "commitmessage" of scroll view "commitmessage" of window "commitpanel"
+		-- if push is enabled
+		display dialog pushquestion
+		if pushquestion is true then
+			set command to do shell script "cd " & currentproj & "; git add . ; git commit -m \"" & commitmessage & "\"; git push;"
+			--set command to "cd " & currentproj & "; git add . ; git commit -m \"" & commitmessage & "\"; git push;"
+			display dialog command
+		else
+			--set command to "cd " & currentproj & "; git add . ; git commit -m \" " & commitmessage & " \" "
+			--display dialog command
+		end if
+		
+		tell progress indicator "commit-spinner" of window "commitpanel" to stop
 	end if
 end clicked
 

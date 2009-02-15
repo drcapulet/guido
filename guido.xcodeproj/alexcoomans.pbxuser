@@ -63,26 +63,24 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 256374891;
-			PBXWorkspaceStateSaveDate = 256374891;
+			PBXPerProjectTemplateStateSaveDate = 256431954;
+			PBXWorkspaceStateSaveDate = 256431954;
 		};
 		perUserProjectItems = {
-			CC131F6C0F42AE56004C5F8C = CC131F6C0F42AE56004C5F8C /* PBXTextBookmark */;
-			CC131F6E0F42AE56004C5F8C = CC131F6E0F42AE56004C5F8C /* PBXTextBookmark */;
-			CC131F720F42AE56004C5F8C = CC131F720F42AE56004C5F8C /* PBXTextBookmark */;
-			CC131F730F42AE56004C5F8C = CC131F730F42AE56004C5F8C /* PBXTextBookmark */;
-			CC319C250F47E97700E5A387 = CC319C250F47E97700E5A387 /* PBXTextBookmark */;
-			CC319C260F47E97700E5A387 = CC319C260F47E97700E5A387 /* PBXTextBookmark */;
-			CC319C5D0F47EF9F00E5A387 = CC319C5D0F47EF9F00E5A387 /* PBXTextBookmark */;
-			CC319C5E0F47EF9F00E5A387 = CC319C5E0F47EF9F00E5A387 /* PBXTextBookmark */;
-			CC319C5F0F47EF9F00E5A387 = CC319C5F0F47EF9F00E5A387 /* PBXTextBookmark */;
-			CC319C600F47EF9F00E5A387 = CC319C600F47EF9F00E5A387 /* PBXTextBookmark */;
-			CC319C6E0F47F6FD00E5A387 = CC319C6E0F47F6FD00E5A387 /* PBXTextBookmark */;
-			CC5A36690F368F3B00390C9D = CC5A36690F368F3B00390C9D /* PBXTextBookmark */;
-			CC5A366A0F368F3B00390C9D = CC5A366A0F368F3B00390C9D /* PBXTextBookmark */;
-			CC5A37390F36BCE000390C9D = CC5A37390F36BCE000390C9D /* PBXTextBookmark */;
-			CC5A373C0F36BCE000390C9D = CC5A373C0F36BCE000390C9D /* PBXTextBookmark */;
-			CCDE8C9B0F47F8760059F288 /* PBXTextBookmark */ = CCDE8C9B0F47F8760059F288 /* PBXTextBookmark */;
+			CC131F6C0F42AE56004C5F8C /* PBXTextBookmark */ = CC131F6C0F42AE56004C5F8C /* PBXTextBookmark */;
+			CC131F720F42AE56004C5F8C /* PBXTextBookmark */ = CC131F720F42AE56004C5F8C /* PBXTextBookmark */;
+			CC131F730F42AE56004C5F8C /* PBXTextBookmark */ = CC131F730F42AE56004C5F8C /* PBXTextBookmark */;
+			CC23BF6D0F48D7F900CA5665 /* PlistBookmark */ = CC23BF6D0F48D7F900CA5665 /* PlistBookmark */;
+			CC319C5D0F47EF9F00E5A387 /* PBXTextBookmark */ = CC319C5D0F47EF9F00E5A387 /* PBXTextBookmark */;
+			CC5A36690F368F3B00390C9D /* PBXTextBookmark */ = CC5A36690F368F3B00390C9D /* PBXTextBookmark */;
+			CC5A366A0F368F3B00390C9D /* PBXTextBookmark */ = CC5A366A0F368F3B00390C9D /* PBXTextBookmark */;
+			CC5A37390F36BCE000390C9D /* PBXTextBookmark */ = CC5A37390F36BCE000390C9D /* PBXTextBookmark */;
+			CC5A373C0F36BCE000390C9D /* PBXTextBookmark */ = CC5A373C0F36BCE000390C9D /* PBXTextBookmark */;
+			CCDE8CA80F47FBA50059F288 /* PBXTextBookmark */ = CCDE8CA80F47FBA50059F288 /* PBXTextBookmark */;
+			CCDE8CA90F47FBA50059F288 /* PBXTextBookmark */ = CCDE8CA90F47FBA50059F288 /* PBXTextBookmark */;
+			CCDE8CAA0F47FBA50059F288 /* PBXTextBookmark */ = CCDE8CAA0F47FBA50059F288 /* PBXTextBookmark */;
+			CCDE8CAE0F47FBA50059F288 /* PBXTextBookmark */ = CCDE8CAE0F47FBA50059F288 /* PBXTextBookmark */;
+			CCDE8CAF0F47FBA50059F288 /* PlistBookmark */ = CCDE8CAF0F47FBA50059F288 /* PlistBookmark */;
 		};
 		sourceControlManager = CC5A365D0F368B9700390C9D /* Source Control */;
 		userBuildSettings = {
@@ -90,7 +88,7 @@
 	};
 	29B97316FDCFA39411CA2CEA /* main.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1221, 616}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 438}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 250}";
 			sepNavWindowFrame = "{{15, 29}, {1280, 744}}";
@@ -101,6 +99,11 @@
 		executables = (
 			CC5A36510F368B7700390C9D /* guido */,
 		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 29}, {1280, 744}}";
+		};
 	};
 	CC131F5A0F42A165004C5F8C /* loadprojects.applescript */ = {
 		uiCtxt = {
@@ -118,16 +121,6 @@
 		rType = 0;
 		vrLen = 879;
 		vrLoc = 687;
-	};
-	CC131F6E0F42AE56004C5F8C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 089C165DFE840E0CC02AAC07 /* English */;
-		name = "InfoPlist.strings: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 45;
-		vrLoc = 0;
 	};
 	CC131F720F42AE56004C5F8C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -149,25 +142,17 @@
 		vrLen = 45;
 		vrLoc = 0;
 	};
-	CC319C250F47E97700E5A387 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
-		name = "commit.applescript: 17";
+	CC23BF6D0F48D7F900CA5665 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = /Users/alexcoomans/Documents/Projects/guido/guido/Info.plist;
 		rLen = 0;
-		rLoc = 545;
-		rType = 0;
-		vrLen = 1057;
-		vrLoc = 22;
-	};
-	CC319C260F47E97700E5A387 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CC131F5A0F42A165004C5F8C /* loadprojects.applescript */;
-		name = "loadprojects.applescript: 10";
-		rLen = 50;
-		rLoc = 324;
-		rType = 0;
-		vrLen = 710;
-		vrLoc = 0;
+		rLoc = 2147483647;
 	};
 	CC319C5D0F47EF9F00E5A387 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -178,46 +163,6 @@
 		rType = 0;
 		vrLen = 710;
 		vrLoc = 0;
-	};
-	CC319C5E0F47EF9F00E5A387 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
-		name = "commit.applescript: 46";
-		rLen = 0;
-		rLoc = 1859;
-		rType = 0;
-		vrLen = 1186;
-		vrLoc = 490;
-	};
-	CC319C5F0F47EF9F00E5A387 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
-		name = "commit.applescript: 46";
-		rLen = 0;
-		rLoc = 1859;
-		rType = 0;
-		vrLen = 1186;
-		vrLoc = 490;
-	};
-	CC319C600F47EF9F00E5A387 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CC131F5A0F42A165004C5F8C /* loadprojects.applescript */;
-		name = "loadprojects.applescript: 11";
-		rLen = 24;
-		rLoc = 375;
-		rType = 0;
-		vrLen = 710;
-		vrLoc = 0;
-	};
-	CC319C6E0F47F6FD00E5A387 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
-		name = "commit.applescript: 47";
-		rLen = 0;
-		rLoc = 1859;
-		rType = 0;
-		vrLen = 1139;
-		vrLoc = 720;
 	};
 	CC5A36510F368B7700390C9D /* guido */ = {
 		isa = PBXExecutable;
@@ -317,7 +262,7 @@
 		vrLen = 252;
 		vrLoc = 0;
 	};
-	CCDE8C9B0F47F8760059F288 /* PBXTextBookmark */ = {
+	CCDE8CA80F47FBA50059F288 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = CC5A36BC0F36B8B000390C9D /* commit.applescript */;
 		name = "commit.applescript: 47";
@@ -326,5 +271,47 @@
 		rType = 0;
 		vrLen = 1139;
 		vrLoc = 720;
+	};
+	CCDE8CA90F47FBA50059F288 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	CCDE8CAA0F47FBA50059F288 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	CCDE8CAE0F47FBA50059F288 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	CCDE8CAF0F47FBA50059F288 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = /Users/alexcoomans/Documents/Projects/guido/guido/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
 	};
 }

@@ -6,6 +6,9 @@ it is currently ready for early testing, though I believe everything on the wind
 
 it is a cocoa/applescript hybrid app
 
+!http://img.skitch.com/20090215-tw8j553xt9k3y6a1cauait6ipp.png!
+
+
 h3. still working on
 
 * Maybe add in built-in tagging

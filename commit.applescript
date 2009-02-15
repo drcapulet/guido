@@ -19,10 +19,10 @@ on clicked theObject
 		display dialog pushquestion
 		if pushquestion is true then
 			set command to do shell script "cd " & currentproj & "; git add .; git commit -m \"" & commitmessage & "\"; git push;"
-			display dialog command
+			display dialog command buttons {"OK"} with icon 1
 		else
 			set command to do shell script "cd " & currentproj & "; git add .; git commit -m \"" & commitmessage & "\";"
-			display dialog command
+			display dialog command buttons {"OK"} with icon 1
 		end if
 		
 		tell progress indicator "commit-spinner" of window "commitpanel" to stop

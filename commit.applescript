@@ -19,13 +19,10 @@ on clicked theObject
 		display dialog pushquestion
 		if pushquestion is true then
 			set command to do shell script "cd " & currentproj & "; git add .; git commit -m \"" & commitmessage & "\"; git push;"
-			--set command2 to do shell script "cd " & currentproj & "git commit -m \"" & commitmessage & "\"; git push;"
-			--set command to "cd " & currentproj & "; git add . ; git commit -m \"" & commitmessage & "\"; git push;"
 			display dialog command
-			--display dialog command2
 		else
-			--set command to "cd " & currentproj & "; git add . ; git commit -m \" " & commitmessage & " \" "
-			--display dialog command
+			set command to do shell script "cd " & currentproj & "; git add .; git commit -m \"" & commitmessage & "\";"
+			display dialog command
 		end if
 		
 		tell progress indicator "commit-spinner" of window "commitpanel" to stop
@@ -41,5 +38,10 @@ on choose menu item theObject
 		set projectfolder to (POSIX path of projectfolder)
 		set projectsfile to "~/Library/Preferences/com.alex2.guido.projects.txt"
 		do shell script "echo " & projectfolder & " >>" & projectsfile & ";"
+		my refreshMenu()
 	end if
 end choose menu item
+
+on refreshMenu()
+	run script (((path to me) as string) & "Contents:Resources:Scripts:loadprojects.scpt") as alias
+end refreshMenu
